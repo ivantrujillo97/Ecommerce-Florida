@@ -1,0 +1,14 @@
+.kv-preview-thumb{
+    width: 200px;
+    align-content: center;
+    overflow: hidden;
+}
+
+.kv-file-content{
+    position: relative;
+    right: 12px;
+}
+
+#base_description{
+    height: 38px;
+}
